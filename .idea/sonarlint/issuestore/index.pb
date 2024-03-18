@@ -57,3 +57,11 @@ M
 src/Facade/CashierFacade.java,c\a\ca707930c3d13f037cd28389a99681f3a12e55aa
 D
 src/Facade/Main.java,9\e\9edaf2161b250142e351b997770c953d95b1f4e0
+G
+src/Flyweigth/Line.java,3\8\3881104ca23a3849f82f615983faaa8749ee7de4
+M
+src/Flyweigth/ILightLine.java,2\e\2ebba18573f43abb70cb6cf9819cd240904a4340
+O
+src/Flyweigth/LinesFactory.java,9\1\91b2034f5560e111ddca228e98d51007bea53c75
+G
+src/Flyweigth/Main.java,d\1\d1284e4a504398d68e0e9729ab8173909950565b
