@@ -23,3 +23,13 @@ J
 src/Bridge/Vegetarian.java,0\8\082e59553833a6567289a990e78b40b11cf71e30
 D
 src/Bridge/Main.java,7\e\7e6374890cad7f43831dbac6b68ec723c51d51eb
+R
+"src/Composite/AbstractProduct.java,8\4\841748189b4f3a47b806889e67fd472d032c86ff
+P
+ src/Composite/SimpleProduct.java,a\3\a3c0048f178279ee81c703b6763e593f08c928b7
+S
+#src/Composite/CompositeProduct.java,5\4\542cdae695c55995f117e1d5d4974e5469cd3a50
+L
+src/Composite/SaleOrder.java,7\4\74e20ac431d28071a48584584962c9a01f4b3ed3
+G
+src/Composite/Main.java,0\6\06d433388f009ee2b38066168b6e57d0af2c8f6d
