@@ -33,3 +33,17 @@ L
 src/Composite/SaleOrder.java,7\4\74e20ac431d28071a48584584962c9a01f4b3ed3
 G
 src/Composite/Main.java,0\6\06d433388f009ee2b38066168b6e57d0af2c8f6d
+M
+src/Decorator/Alquilable.java,b\9\b9e996a462a10a0bf7ce6f9511f6804a4a91cdc6
+K
+src/Decorator/Rentable.java,5\d\5d530e032c4691dbff4e11ad1e727415973cc00c
+H
+src/Decorator/Hotel.java,4\d\4db0709270378a512b6fb861041e3477f70a0390
+T
+$src/Decorator/RentableDecorator.java,a\2\a2cb72e887b3332c9e9a46a24b16d6fb8b2b0072
+T
+$src/Decorator/VIPClientDiscount.java,1\f\1f8c838e47bdcb959dbba577ab375e09e3517858
+M
+src/Decorator/Beachfront.java,9\e\9e8ac26686b11307551dcafab608a090cab657de
+G
+src/Decorator/Main.java,2\4\2408d5b4ec61df8250452af06aab2362c25a683a
