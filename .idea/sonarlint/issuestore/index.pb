@@ -65,3 +65,13 @@ O
 src/Flyweigth/LinesFactory.java,9\1\91b2034f5560e111ddca228e98d51007bea53c75
 G
 src/Flyweigth/Main.java,d\1\d1284e4a504398d68e0e9729ab8173909950565b
+E
+src/Proxy/Server.java,1\7\17f7cbc4f30b5071024e89ba23e5bac3ac16f6c1
+E
+src/Proxy/Serves.java,3\b\3bb07a63f1a9ef008cb036b28ff148d136599c94
+I
+src/Proxy/RealServer.java,2\e\2e1bbdab96dbf866053cbf3ae74bec72696c32f2
+J
+src/Proxy/ProxyServer.java,b\e\be09ef0f0ac9a89dcb5e194be7a2a7ef27a9d79a
+C
+src/Proxy/Main.java,1\6\16b45140d54e980582467f5135bf73a65d7f1392
